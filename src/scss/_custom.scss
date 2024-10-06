@@ -34,5 +34,9 @@ $link-decoration: none;
     font-weight: 900;
 }
 
+//Cards
+$card-border-radius: 0;
+$card-border-width: 0;
+
 // Importar Bootstrap
 @import '../../node_modules/bootstrap/scss/bootstrap.scss';
